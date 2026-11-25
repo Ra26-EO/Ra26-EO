@@ -41,24 +41,29 @@
   <g transform="translate(60,80)">
     <g font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="4" fill="#5cffd9">
       <line x1="0" y1="-10" x2="20" y2="-10" stroke="#5cffd9" stroke-width="0.6"/>
-      <text x="28" y="-6">ORBITAL TOOLBELT · v.2026</text>
+      <text x="28" y="-6">EUROPEAN SPACE AGENCY · STRATHCLYDE</text>
     </g>
-    <text y="40" font-family="'Fraunces', 'Playfair Display', Georgia, serif" font-size="56" font-weight="500" font-style="italic" fill="#e8edff" letter-spacing="-1.5">Jane Doe</text>
-    <text y="68" font-family="'JetBrains Mono', monospace" font-size="11" fill="#5cffd9" letter-spacing="3">FRONTEND ENGINEER · MOTION · 3D</text>
+    <text y="40" font-family="'Fraunces', 'Playfair Display', Georgia, serif" font-size="56" font-weight="500" font-style="italic" fill="#e8edff" letter-spacing="-1.5">Raj Shekhar Peri</text>
+    <text y="68" font-family="'JetBrains Mono', monospace" font-size="11" fill="#5cffd9" letter-spacing="3">DOCTORAL RESEARCHER &amp; DEVELOPER</text>
 
     <line x1="0" y1="100" x2="380" y2="100" stroke="#1a2238" stroke-width="0.6"/>
 
-    <text y="128" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">Seven tools in one orbit. The wider the</text>
-    <text y="148" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">ring, the longer I have leaned on it:</text>
-    <text y="168" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">outer is second nature, inner is still</text>
-    <text y="188" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">new. The centre is whatever is this week.</text>
+ 
+
+    <text y="98" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">- Developing Explainable AI (XAI) prediction models</text>
+    <text y="118" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1"> for ESA Copernicus Emergency Management System data.</text>
+    <text y="138" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">- Building interpretable machine learning frameworks</text>
+    <text y="158" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">for real-time wildfire risk assessment.</text>
+    <text y="178" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">- Bridging aerospace Earth observation with disaster risk reduction.</text>
+    <text y="198" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">- Contributing to trustworthy AI standards</text>
+    <text y="218" font-family="'JetBrains Mono', monospace" font-size="11" fill="#cbd5e1">for safety-critical environmental applications.</text>
 
     <line x1="0" y1="220" x2="380" y2="220" stroke="#1a2238" stroke-width="0.6"/>
 
     <g transform="translate(0,250)" font-family="'JetBrains Mono', monospace" font-size="10" fill="#a5b4cf" letter-spacing="2">
-      <text>OUTER RING</text>   <text x="96" fill="#5cffd9">react · ts · node</text>
-      <text y="20">MIDDLE</text>      <text x="96" y="20" fill="#5cffd9">go · css</text>
-      <text y="40">INNER</text>       <text x="96" y="40" fill="#a78bfa">rust · webgl</text>
+      <text>TOOLS</text>   <text x="96" fill="#5cffd9">Google earth engine · ANSYS · QGIS</text>
+      <text y="20">LANGS</text>      <text x="96" y="20" fill="#5cffd9">javascript · Python · MATLAB</text>
+      <text y="40">RESEARCH</text>       <text x="96" y="40" fill="#a78bfa">earth observation · disaster prevention</text>
     </g>
   </g>
 
@@ -97,33 +102,33 @@
            caption beside the sphere a claim the picture did not support. -->
       <g transform="translate(-135,-24)">
         <circle r="3" fill="#5cffd9"/>
-        <text x="10" y="4" fill="#5cffd9">react</text>
+        <text x="10" y="4" fill="#5cffd9">ANSYS</text>
       </g>
       <g transform="translate(-69,-119)">
         <circle r="3" fill="#5cffd9"/>
-        <text x="10" y="4" fill="#5cffd9">ts</text>
+        <text x="10" y="4" fill="#5cffd9">js</text>
       </g>
       <g transform="translate(-105,88)">
         <circle r="3" fill="#5cffd9"/>
-        <text x="10" y="4" fill="#5cffd9">node</text>
+        <text x="10" y="4" fill="#5cffd9">python</text>
       </g>
       <g transform="translate(98,57)">
         <circle r="3" fill="#5cffd9"/>
-        <text x="10" y="4" fill="#5cffd9">go</text>
+        <text x="10" y="4" fill="#5cffd9">QGIS</text>
       </g>
       <g transform="translate(10,113)">
         <circle r="3" fill="#5cffd9"/>
-        <text x="10" y="4" fill="#5cffd9">css</text>
+        <text x="10" y="4" fill="#5cffd9">GEE</text>
       </g>
       <!-- The two innermost sit on the right, where a right-hand label would
            straddle the rim — so this one reads back toward its own dot. -->
       <g transform="translate(86,-31)">
         <circle r="3" fill="#a78bfa"/>
-        <text x="-10" y="4" text-anchor="end" fill="#a78bfa">rust</text>
+        <text x="-10" y="4" text-anchor="end" fill="#a78bfa">MATLAB</text>
       </g>
       <g transform="translate(39,-83)">
         <circle r="3" fill="#a78bfa"/>
-        <text x="10" y="4" fill="#a78bfa">webgl</text>
+        <text x="10" y="4" fill="#a78bfa">// research</text>
       </g>
       <g transform="translate(18,26)" opacity="0.7">
         <text x="0" y="0" font-style="italic" fill="#fef3c7">// learning</text>
@@ -142,7 +147,7 @@
 
   <!-- Bottom register -->
   <g transform="translate(60,396)" font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="3" fill="#5a648b">
-    <text>JANE.DEV  ·  @JANEDOE  ·  HELLO@JANE.DEV</text>
+    <text>raj.peri@strath.ac.uk</text>
   </g>
   <text x="1140" y="396" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="10" fill="#a78bfa" letter-spacing="3">↻ ROTATION T = 22s</text>
 </svg>
