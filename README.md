@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.assets/tech-sphere.svg" alt="{{Raj Peri}} — orbital toolbelt" width="100%" />
+  <img src="./.github/assets/tech-sphere.svg" alt="{{Raj Peri}} — orbital toolbelt" width="100%" />
 </p>
 
 ### 🛠️ Projects & Contributions
@@ -19,4 +19,12 @@
   <a href="https://orcid.org/0000-0002-6103-5667">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-%9bc63b.svg?&amp;logo=orcid&amp;logoColor=white" />
   </a>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BogdanPri/BogdanPri/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
