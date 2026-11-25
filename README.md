@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/tech-sphere.svg" alt="{{name}} — orbital toolbelt" width="100%" />
+</p>
 
-<!--
-**Ra26-EO/Ra26-EO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### why this orbit
 
-Here are some ideas to get you started:
+{{orbit_explanation_paragraph}}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### what's at the center this week
+
+> {{learning_focus}}
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
