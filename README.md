@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/raj-shekhar-peri/">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff" />
   </a>
-  <a href="https://orcid.org/0000-0000-0000-0000">
+  <a href="https://orcid.org/0000-0002-6103-5667">
     <img alt="ORCID" src="https://img.shields.io/badge/ORCID-%9bc63b.svg?&amp;logo=orcid&amp;logoColor=white" />
   </a>
 </p>
